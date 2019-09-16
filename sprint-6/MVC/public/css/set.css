@@ -1,0 +1,11 @@
+.container {
+    width: 30%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    box-shadow: 0 3px 20px rgba(0,0,0,0.4);
+    padding: 50px;
+}
+
+ul .btn {
+    margin-left: 20px;
+}
